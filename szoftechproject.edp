@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <_Project>
+    <ProjectName val="szoftechproject"/>
+    <VCActive val="N"/>
+    <WorkOffline val="N"/>
+    <SourceDirectory val="Source"/>
+    <ExportsDirectory val="Exports"/>
+    <GUID val="{0E3B8813-1B6F-48FE-A716-7EE1D60155B4}"/>
+    <Version min="12010"/>
+  </_Project>
+
+</Application>
